@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+
+# AWS credentials
+.aws/credentials
+
+# VS Code workspace settings
+.vscode/
+
+# Flask default SQLite database
+*.sqlite3
+
+# PyCharm project files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
