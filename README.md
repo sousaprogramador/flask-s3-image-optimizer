@@ -26,7 +26,7 @@ API Flask para redimensionar e otimizar imagens armazenadas no AWS S3. Utiliza P
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd nome-do-repositorio
+   cd flask-s3-image-optimizer.git
    ```
 
 3. Crie e ative um ambiente virtual (opcional, mas recomendado):
